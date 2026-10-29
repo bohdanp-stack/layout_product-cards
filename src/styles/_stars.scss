@@ -2,6 +2,7 @@
 
 .stars {
   display: flex;
+  align-items: center;
   gap: $star-gap;
 
   &__star {
